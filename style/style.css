@@ -1,0 +1,27 @@
+@import url("header.css");
+@import url("container1.css");
+@import url("container2.css");
+@import url("container3.css");
+@import url("container4.css");
+@import url("container5.css");
+@import url("footer.css");
+
+
+\*{
+    text-decoration: none;
+}
+:root{
+    --background--color: #FFFFFF ;
+    --wine--color:#8E2424;
+    --main--font:"Inter";
+    --font--color:#667085;
+    --white--color:#FFFFFF;
+}
+
+body{
+    background-color: var(--background--color);
+    font-weight: 400;
+    font-size: 16px;
+    font-family: var(--main--font);
+    color: var(--font--color);
+}

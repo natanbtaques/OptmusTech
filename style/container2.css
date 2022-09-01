@@ -1,0 +1,21 @@
+.container2{
+    display: flex;
+    margin: auto 4em;
+}
+.container2__number{
+    font-size: 72px;
+    font-weight: 700;
+    color: var(--wine--color);
+}
+.container2__title{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin: 1em 0;
+}
+.container2__info{
+    margin: 2em;
+}
+.container2__text{
+    line-height: 1.4em;
+}

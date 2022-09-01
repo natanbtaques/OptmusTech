@@ -1,0 +1,14 @@
+.container1{
+    text-align: center;
+    padding: 5em 20em;
+}
+.small__text{
+    color: var(--wine--color);
+    font-weight: 700;
+}
+.title{
+    padding:0.5em 0 1em 0;
+    font-size: 48px;
+    font-weight:700;
+    color: black;
+}

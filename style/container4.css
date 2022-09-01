@@ -1,0 +1,33 @@
+.container4{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.conatiner4__info{
+    border: 1px solid rgba(61, 59, 59, 0.1);
+    border-radius: 1em;
+    margin: 1em;
+}
+.container4__title{
+    color: black;
+    font-weight: bold;
+    padding: 1em 0;
+    font-size: 20px;
+
+}
+.container4__title-list{
+    color: black;
+    font-weight: bold;
+    padding: 1em;
+    font-size: 18px;
+}
+.container4__title{
+    margin: 1em;
+}
+.container4__list{
+    display: flex;
+}
+.container4__item{
+    padding: 1em;
+    
+}

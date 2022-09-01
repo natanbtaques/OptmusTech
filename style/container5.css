@@ -1,0 +1,27 @@
+.container5{
+    text-align: center;
+    background:#8e242407;
+    margin: 5em 22em;
+}
+.red-text{
+    color: var(--wine--color);
+    font-weight:bolder ;
+    padding: 2em 0;
+}
+.container5__text{
+    font-size: 36px;
+    color: black;
+    font-weight: 600;
+}
+.container5__avatar{
+    margin: 2em 0;
+}
+.person__name{
+    color: black;
+    font-weight: bold;
+}
+.container5__job{
+    padding: 1em 0 5em 0;
+    font-size: 14px;
+
+}

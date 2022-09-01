@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    padding: 2em 4em;
+    justify-content: space-between;
+    
+}
+.head__image{
+    padding-right: 5em;
+}
+.head__menu{
+    display: flex;
+    padding-left: 4em;
+}
+.menu__item{
+    padding-left: 2em;
+}
+
+.menu__item-link{
+    text-decoration: none;
+    color: var(--font--color);
+}
+.head__login{
+    display: flex;
+}
+.menu__login-button{
+    border: 1px solid var(--wine--color);
+    border-radius: 0.4em;
+    padding:0.7em 1em ;
+    background-color: var(--wine--color);
+    color: var(--white--color);
+}
+.head__login-item{
+    margin-right: 2em;
+}
+.menu__login-enter{
+    color: var(--font--color);
+}
+.menu__login-link{
+    text-decoration: none;
+}

@@ -1,0 +1,27 @@
+.footer__page{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.055);
+    padding-bottom: 6em;
+
+}
+
+.footer__title{
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+    padding: 3em 0 1em 0;
+}
+.site__contact{
+    margin: 2em;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    width: 15%;
+    border-color: rgba(128, 128, 128, 0.192);
+}
+.footer__button{
+    background: var(--wine--color);
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em; 
+    border-color: rgba(128, 128, 128, 0.192); 
+}
